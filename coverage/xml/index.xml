@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<phpunit xmlns="https://schema.phpunit.de/coverage/1.0">
+  <build time="Fri May 14 4:41:05 UTC 2021" phpunit="9.5.4" coverage="9.2.6">
+    <runtime name="PHP" version="8.0.5" url="https://secure.php.net/"/>
+    <driver name="xdebug" version="3.0.4"/>
+  </build>
+  <project source="/home/chienpm/projects/usermanager/src">
+    <tests/>
+    <directory name="/">
+      <totals>
+        <lines total="7" comments="0" code="7" executable="0" executed="0" percent="0"/>
+        <methods count="0" tested="0" percent="0"/>
+        <functions count="0" tested="0" percent="0"/>
+        <classes count="0" tested="0" percent="0"/>
+        <traits count="0" tested="0" percent="0"/>
+      </totals>
+      <file name="UserRepository.php" href="UserRepository.php.xml">
+        <totals>
+          <lines total="7" comments="0" code="7" executable="0" executed="0" percent="0"/>
+          <methods count="0" tested="0" percent="0"/>
+          <functions count="0" tested="0" percent="0"/>
+          <classes count="0" tested="0" percent="0"/>
+          <traits count="0" tested="0" percent="0"/>
+        </totals>
+      </file>
+    </directory>
+  </project>
+</phpunit>
